@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@pinia/nuxt',
     '@invictus.codes/nuxt-vuetify',
+    "nuxt-icon",
   ],
   i18n: {
     locales: ['en', 'fr', 'ar'],
